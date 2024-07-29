@@ -15,3 +15,9 @@ Added 3 titles to practice Markdown language
 let this = 0;
 const that = 23;
 ```
+
+
+- [ ] Wake up
+- [ ] Brush teeth
+- [ ] Do makeup
+- [ ] Leave house
