@@ -6,3 +6,6 @@
 
 
 Added 3 titles to practice Markdown language
+
+
+![Image of Barnsley FC club badge](https://upload.wikimedia.org/wikipedia/en/c/c9/Barnsley_FC.svg)
